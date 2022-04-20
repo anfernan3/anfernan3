@@ -1,9 +1,10 @@
+![anfernan3-banner](https://github.com/anfernan3/anfernan3/blob/main/banner.gif)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anfernan3&hide=issues&show_icons=truetrue&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anfernan3&card_width=250&langs_count=6&layout=compact&theme=tokyonight)
-
-
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anfernan3&repo=Pizzeria&theme=aura)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anfernan3&repo=bootCamp&theme=radical)
+  
+  
 - Programas y lenguajes que uso:
 
 
