@@ -1,4 +1,4 @@
-![anfernan3-banner](https://github.com/anfernan3/anfernan3/blob/main/banner.gif)
+![anfernan3-banner](https://github.com/anfernan3/anfernan3/blob/main/giphy.gif)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anfernan3&hide=issues&show_icons=truetrue&theme=radical) 
